@@ -2,6 +2,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 
+
 public class Kuiz1
 {
 	private JFrame frame;
